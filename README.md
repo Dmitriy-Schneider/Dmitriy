@@ -88,17 +88,7 @@
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Dmitriy-Schneider&show_icons=true&theme=default&hide_border=true&bg_color=F0F9FF&title_color=3B82F6&icon_color=60A5FA&text_color=1E3A8A)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dmitriy-Schneider&theme=default&hide_border=true&background=F0F9FF&stroke=3B82F6&ring=60A5FA&fire=F59E0B&currStreakLabel=1E3A8A)
-
-</div>
 
 ---
 
@@ -137,8 +127,22 @@
 
 **Первая консультация бесплатно** • **MVP за 48-72 часа** • **Гарантия результата**
 
+
+
+<br><br>
+
+**🔖 Keywords:** Vibe Coding | Cursor IDE | AI MVP | Rapid Prototyping | Prompt Engineering | ChatGPT | Claude AI | No-Code | Low-Code | Fast Development | Startup MVP | AI Automation | LangChain | RAG | AI Consultant | Dmitriy Schneider
+
 ---
 
-<sub>⚡ Vibe-Coding | 🚀 Rapid MVP | 🤖 AI-First Development | 💡 Dmitriy Schneider</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer&text=Let's%20Build%20Your%20MVP!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%">
+
+<sub>
+⭐ Если вам интересен Vibe-Coding и быстрая разработка — ставьте звезды моим проектам!
+<br>
+💡 Открыт для коллабораций и интересных MVP-проектов
+</sub>
 
 </div>
