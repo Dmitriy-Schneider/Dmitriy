@@ -1,42 +1,144 @@
-# 🚀 Prompt Engineer
-Разрабатываю и внедряю ИИ-решения для производства, инженеринговых компаний, которые сокращают расходы, повышают качество и значительно ускоряют технические и бизнес-процессы!
+<div align="center">
 
-💡 Специализация: внедрение ИИ в технические и бизнес-процессы.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Dmitriy+Schneider;Vibe-Coding+%26+AI+MVP+Expert;From+Idea+to+Product+in+48h" alt="Typing SVG" />
 
----
+### ⚡ AI MVP Architect | Vibe-Coding Specialist | Cursor Power User
 
-## ⚡ Скилсет
+**От идеи до рабочего прототипа за 2-3 дня**
 
-| Технические навыки | Бизнес-навыки |
-|---|---|
-| ▶️ Продвинутый промптинг | ▶️ Аудит и оптимизация технических и бизнес-процессов |
-| ▶️ Разработка чат-ботов, GPTs, Actions, нейроассистентов | ▶️ Оценка стоимости и рентабельности проектов |
-| ▶️ Работа с мультимодальными моделями (текст/аудио/видео/таблицы) | ▶️ Монетизация AI-решений |
-| ▶️ Дообучение моделей (Fine-tuning, Transfer Learning) | ▶️ Подготовка документации: ТЗ, брифинги, юридические аспекты |
-| ▶️ Построение баз знаний: LangChain, векторные БД | ▶️ Управление коммуникацией с заказчиком |
-| ▶️ Интеграция через Zapier/Voiceflow/Make | ▶️ Организация работы команды заказчика |
-| ▶️ Локальное и облачное развертывание LLM |  |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+![](https://komarev.com/ghpvc/?username=Dmitriy-Schneider&color=3B82F6&style=for-the-badge)
+
+</div>
 
 ---
 
-## 🛠️ Технологический стек
+## 🚀 Моя специализация
 
-### 🌐 ИИ/ML
-
-<kbd>OpenAI (GPTs, DALL-E, Whisper)</kbd> | <kbd>Claude 4.5</kbd> | <kbd>Gemini</kbd> | <kbd>LLaMA</kbd> | <kbd>Hugging Face</kbd><br>
-<kbd>YandexGPT</kbd> | <kbd>LangChain</kbd> | <kbd>ElevenLabs</kbd> | <kbd>Fine-tuning (PyTorch)</kbd> | <kbd>Prompt Engineering</kbd>
-
-### 💻 Программирование и инфраструктура
-
-<kbd>Python</kbd> | <kbd>Jupyter</kbd> | <kbd>MySQL</kbd> | <kbd>Google Firestore</kbd><br>
-<kbd>GitHub</kbd> | <kbd>Make</kbd> | <kbd>Zapier</kbd> | <kbd>Voiceflow</kbd> | <kbd>Bootstrap</kbd> | <kbd>FastAPI</kbd>
+💡 **Vibe-Coding для MVP** — интуитивная разработка с AI, где код пишется на естественном языке  
+⚡ **Сверхбыстрые прототипы** — рабочий продукт за выходные, не за месяцы  
+🎯 **AI-First подход** — Cursor + Claude как основной инструмент разработки  
 
 ---
 
-## 📊 Что я приношу в проект?
+## 🛠️ Tech Stack
 
-- Снижение затрат: оптимизация токенов, выбор эффективных моделей (облако/локально)
-- Полный цикл разработки: от идеи до внедрения (включая CRM-интеграции, аналитику, обучение команды)
-- Гибкие решения: от low-code для быстрого MVP до кастомной разработки сложных систем
+<div align="center">
 
-📣 Давайте работать вместе! — [LinkedIn](#) | [Telegram](#) | [Портфолио](#)
+### 💻 AI-Coding Tools
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_4.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🤖 AI Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+
+### ⚡ Rapid Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🔗 No-Code/Automation
+![Voiceflow](https://img.shields.io/badge/Voiceflow-5551FF?style=for-the-badge&logo=voiceflow&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
+
+### 🗄️ Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 MVP Кейсы
+
+| Проект | Срок | Результат |
+|:---|:---:|:---|
+| 🤖 **AI техподдержка** | 48ч | 500+ запросов/день, окупился за 2 недели |
+| 🔍 **RAG-поиск** | 3 дня | 10K документов, точность 89% |
+| 💬 **Telegram-бот** | 24ч | Conversion 18%, первая продажа на 3-й день |
+| 📊 **AI-дашборд** | 36ч | 15+ метрик + AI-инсайты |
+
+**Все проекты:** 100% Vibe-Coding с Cursor + Claude
+
+---
+
+## ⚡ Что я делаю
+
+<div align="center">
+
+| Услуга | Срок | 
+|:---|:---:|
+| 🚀 **MVP за выходные** | 2-3 дня |
+| 🤖 **Чат-бот под ключ** | 1-2 дня |
+| 📚 **RAG-система** | 3-7 дней |
+| ⚙️ **AI-автоматизация** | 3-5 дней |
+| 💡 **AI-консалтинг** | 1-2 часа |
+
+**Подход:** Фиксированная цена • Оплата по факту • Гарантия результата
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Dmitriy-Schneider&show_icons=true&theme=default&hide_border=true&bg_color=F0F9FF&title_color=3B82F6&icon_color=60A5FA&text_color=1E3A8A)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dmitriy-Schneider&theme=default&hide_border=true&background=F0F9FF&stroke=3B82F6&ring=60A5FA&fire=F59E0B&currStreakLabel=1E3A8A)
+
+</div>
+
+---
+
+## 🏷️ Keywords & Tags
+
+<div align="center">
+
+**AI Development:**  
+`#VibeCoding` `#CursorIDE` `#PromptEngineering` `#AIEngineering` `#ChatGPT` `#Claude`
+
+**MVP & Prototyping:**  
+`#MVPDevelopment` `#RapidPrototyping` `#FastDevelopment` `#StartupMVP`
+
+**Automation:**  
+`#AIAutomation` `#NoCode` `#LowCode` `#Voiceflow` `#Zapier`
+
+**Technologies:**  
+`#LangChain` `#RAG` `#Python` `#FastAPI` `#NextJS` `#Firebase`
+
+**Russian:**  
+`#ИИРазработка` `#ЧатБоты` `#АвтоматизацияБизнеса` `#Стартап`
+
+</div>
+
+---
+
+## 📞 Контакты
+
+<div align="center">
+
+### 💬 Нужен MVP? Обсудим!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram)](#)
+[![Calendly](https://img.shields.io/badge/Calendly-Book_Call-3B82F6?style=for-the-badge&logo=calendly)](#)
+
+**Первая консультация бесплатно** • **MVP за 48-72 часа** • **Гарантия результата**
+
+---
+
+<sub>⚡ Vibe-Coding | 🚀 Rapid MVP | 🤖 AI-First Development | 💡 Dmitriy Schneider</sub>
+
+</div>
