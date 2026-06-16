@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Dmitriy+Schneider;Vibe-Coding+%26+AI+MVP+Expert;From+Idea+to+Product+in+48h" alt="Typing SVG" />
 
-### ⚡ AI MVP Architect | Vibe-Coding Specialist | Cursor Power User
+### ⚡ AI MVP Architect  | Business Automatization | Vibe-Coding Specialist | Cursor Power User
 
 **От идеи до рабочего прототипа за 2-3 дня**
 
@@ -18,6 +18,7 @@
 
 ## 🚀 Моя специализация
 
+💡 **Business Automatization** — распознавание ключевых успехов бизнеса и автоматизация процессов  
 💡 **Vibe-Coding для MVP** — интуитивная разработка с AI, где код пишется на естественном языке  
 ⚡ **Сверхбыстрые прототипы** — рабочий продукт за выходные, не за месяцы  
 🎯 **AI-First подход** — Cursor + Claude как основной инструмент разработки  
